@@ -1,0 +1,7 @@
+C:\Users\GRVA\source\repos\caPihaChar\caPihaChar\obj\Debug\caPihaChar.csproj.AssemblyReference.cache
+C:\Users\GRVA\source\repos\caPihaChar\caPihaChar\obj\Debug\caPihaChar.csproj.CoreCompileInputs.cache
+C:\Users\GRVA\source\repos\caPihaChar\caPihaChar\bin\Debug\caPihaChar.exe.config
+C:\Users\GRVA\source\repos\caPihaChar\caPihaChar\bin\Debug\caPihaChar.exe
+C:\Users\GRVA\source\repos\caPihaChar\caPihaChar\bin\Debug\caPihaChar.pdb
+C:\Users\GRVA\source\repos\caPihaChar\caPihaChar\obj\Debug\caPihaChar.exe
+C:\Users\GRVA\source\repos\caPihaChar\caPihaChar\obj\Debug\caPihaChar.pdb
