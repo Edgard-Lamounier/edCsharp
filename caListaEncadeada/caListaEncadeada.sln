@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "caListaEncadeada", "caListaEncadeada\caListaEncadeada.csproj", "{D716C770-1F66-41FC-9BE4-D58927B84A92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D716C770-1F66-41FC-9BE4-D58927B84A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D716C770-1F66-41FC-9BE4-D58927B84A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D716C770-1F66-41FC-9BE4-D58927B84A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D716C770-1F66-41FC-9BE4-D58927B84A92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4655B1EE-9779-4ED6-A3DA-5FD2A669C536}
+	EndGlobalSection
+EndGlobal

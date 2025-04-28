@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caListaEncadeada\caListaEncadeada\bin\Debug\caListaEncadeada.exe.config
+C:\Users\Edgard\source\repos\caListaEncadeada\caListaEncadeada\bin\Debug\caListaEncadeada.exe
+C:\Users\Edgard\source\repos\caListaEncadeada\caListaEncadeada\bin\Debug\caListaEncadeada.pdb
+C:\Users\Edgard\source\repos\caListaEncadeada\caListaEncadeada\obj\Debug\caListaEncadeada.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caListaEncadeada\caListaEncadeada\obj\Debug\caListaEncadeada.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caListaEncadeada\caListaEncadeada\obj\Debug\caListaEncadeada.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caListaEncadeada\caListaEncadeada\obj\Debug\caListaEncadeada.exe
+C:\Users\Edgard\source\repos\caListaEncadeada\caListaEncadeada\obj\Debug\caListaEncadeada.pdb

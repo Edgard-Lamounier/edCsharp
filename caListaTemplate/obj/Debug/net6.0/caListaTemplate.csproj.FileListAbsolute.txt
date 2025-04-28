@@ -1,0 +1,15 @@
+C:\Users\lamou\source\repos\caListaTemplate\bin\Debug\net6.0\caListaTemplate.exe
+C:\Users\lamou\source\repos\caListaTemplate\bin\Debug\net6.0\caListaTemplate.deps.json
+C:\Users\lamou\source\repos\caListaTemplate\bin\Debug\net6.0\caListaTemplate.runtimeconfig.json
+C:\Users\lamou\source\repos\caListaTemplate\bin\Debug\net6.0\caListaTemplate.dll
+C:\Users\lamou\source\repos\caListaTemplate\bin\Debug\net6.0\caListaTemplate.pdb
+C:\Users\lamou\source\repos\caListaTemplate\obj\Debug\net6.0\caListaTemplate.csproj.AssemblyReference.cache
+C:\Users\lamou\source\repos\caListaTemplate\obj\Debug\net6.0\caListaTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamou\source\repos\caListaTemplate\obj\Debug\net6.0\caListaTemplate.AssemblyInfoInputs.cache
+C:\Users\lamou\source\repos\caListaTemplate\obj\Debug\net6.0\caListaTemplate.AssemblyInfo.cs
+C:\Users\lamou\source\repos\caListaTemplate\obj\Debug\net6.0\caListaTemplate.csproj.CoreCompileInputs.cache
+C:\Users\lamou\source\repos\caListaTemplate\obj\Debug\net6.0\caListaTemplate.dll
+C:\Users\lamou\source\repos\caListaTemplate\obj\Debug\net6.0\refint\caListaTemplate.dll
+C:\Users\lamou\source\repos\caListaTemplate\obj\Debug\net6.0\caListaTemplate.pdb
+C:\Users\lamou\source\repos\caListaTemplate\obj\Debug\net6.0\caListaTemplate.genruntimeconfig.cache
+C:\Users\lamou\source\repos\caListaTemplate\obj\Debug\net6.0\ref\caListaTemplate.dll
