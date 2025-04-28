@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caFila\caFila\bin\Debug\caFila.exe.config
+C:\Users\Edgard\source\repos\caFila\caFila\bin\Debug\caFila.exe
+C:\Users\Edgard\source\repos\caFila\caFila\bin\Debug\caFila.pdb
+C:\Users\Edgard\source\repos\caFila\caFila\obj\Debug\caFila.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caFila\caFila\obj\Debug\caFila.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caFila\caFila\obj\Debug\caFila.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caFila\caFila\obj\Debug\caFila.exe
+C:\Users\Edgard\source\repos\caFila\caFila\obj\Debug\caFila.pdb
