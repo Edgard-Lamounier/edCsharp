@@ -1,0 +1,15 @@
+C:\Users\lamou\source\repos\caRedeSocialGrafo\bin\Debug\net6.0\caRedeSocialGrafo.exe
+C:\Users\lamou\source\repos\caRedeSocialGrafo\bin\Debug\net6.0\caRedeSocialGrafo.deps.json
+C:\Users\lamou\source\repos\caRedeSocialGrafo\bin\Debug\net6.0\caRedeSocialGrafo.runtimeconfig.json
+C:\Users\lamou\source\repos\caRedeSocialGrafo\bin\Debug\net6.0\caRedeSocialGrafo.dll
+C:\Users\lamou\source\repos\caRedeSocialGrafo\bin\Debug\net6.0\caRedeSocialGrafo.pdb
+C:\Users\lamou\source\repos\caRedeSocialGrafo\obj\Debug\net6.0\caRedeSocialGrafo.csproj.AssemblyReference.cache
+C:\Users\lamou\source\repos\caRedeSocialGrafo\obj\Debug\net6.0\caRedeSocialGrafo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamou\source\repos\caRedeSocialGrafo\obj\Debug\net6.0\caRedeSocialGrafo.AssemblyInfoInputs.cache
+C:\Users\lamou\source\repos\caRedeSocialGrafo\obj\Debug\net6.0\caRedeSocialGrafo.AssemblyInfo.cs
+C:\Users\lamou\source\repos\caRedeSocialGrafo\obj\Debug\net6.0\caRedeSocialGrafo.csproj.CoreCompileInputs.cache
+C:\Users\lamou\source\repos\caRedeSocialGrafo\obj\Debug\net6.0\caRedeSocialGrafo.dll
+C:\Users\lamou\source\repos\caRedeSocialGrafo\obj\Debug\net6.0\refint\caRedeSocialGrafo.dll
+C:\Users\lamou\source\repos\caRedeSocialGrafo\obj\Debug\net6.0\caRedeSocialGrafo.pdb
+C:\Users\lamou\source\repos\caRedeSocialGrafo\obj\Debug\net6.0\caRedeSocialGrafo.genruntimeconfig.cache
+C:\Users\lamou\source\repos\caRedeSocialGrafo\obj\Debug\net6.0\ref\caRedeSocialGrafo.dll
