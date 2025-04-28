@@ -1,0 +1,7 @@
+C:\Users\GRVA\source\repos\caPilhaDynamic\caPilhaDynamic\bin\Debug\caPilhaDynamic.exe.config
+C:\Users\GRVA\source\repos\caPilhaDynamic\caPilhaDynamic\bin\Debug\caPilhaDynamic.exe
+C:\Users\GRVA\source\repos\caPilhaDynamic\caPilhaDynamic\bin\Debug\caPilhaDynamic.pdb
+C:\Users\GRVA\source\repos\caPilhaDynamic\caPilhaDynamic\obj\Debug\caPilhaDynamic.csproj.AssemblyReference.cache
+C:\Users\GRVA\source\repos\caPilhaDynamic\caPilhaDynamic\obj\Debug\caPilhaDynamic.csproj.CoreCompileInputs.cache
+C:\Users\GRVA\source\repos\caPilhaDynamic\caPilhaDynamic\obj\Debug\caPilhaDynamic.exe
+C:\Users\GRVA\source\repos\caPilhaDynamic\caPilhaDynamic\obj\Debug\caPilhaDynamic.pdb

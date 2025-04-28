@@ -1,0 +1,15 @@
+C:\Users\Edgard\source\repos\caPilhaDinamica\caPilhaDinamica\bin\Debug\net6.0\caPilhaDinamica.exe
+C:\Users\Edgard\source\repos\caPilhaDinamica\caPilhaDinamica\bin\Debug\net6.0\caPilhaDinamica.deps.json
+C:\Users\Edgard\source\repos\caPilhaDinamica\caPilhaDinamica\bin\Debug\net6.0\caPilhaDinamica.runtimeconfig.json
+C:\Users\Edgard\source\repos\caPilhaDinamica\caPilhaDinamica\bin\Debug\net6.0\caPilhaDinamica.dll
+C:\Users\Edgard\source\repos\caPilhaDinamica\caPilhaDinamica\bin\Debug\net6.0\caPilhaDinamica.pdb
+C:\Users\Edgard\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\net6.0\caPilhaDinamica.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\net6.0\caPilhaDinamica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgard\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\net6.0\caPilhaDinamica.AssemblyInfoInputs.cache
+C:\Users\Edgard\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\net6.0\caPilhaDinamica.AssemblyInfo.cs
+C:\Users\Edgard\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\net6.0\caPilhaDinamica.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\net6.0\caPilhaDinamica.dll
+C:\Users\Edgard\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\net6.0\refint\caPilhaDinamica.dll
+C:\Users\Edgard\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\net6.0\caPilhaDinamica.pdb
+C:\Users\Edgard\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\net6.0\caPilhaDinamica.genruntimeconfig.cache
+C:\Users\Edgard\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\net6.0\ref\caPilhaDinamica.dll
