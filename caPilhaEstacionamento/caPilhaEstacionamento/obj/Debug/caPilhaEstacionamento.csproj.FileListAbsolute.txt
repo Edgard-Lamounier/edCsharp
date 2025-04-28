@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caPilhaEstacionamento\caPilhaEstacionamento\bin\Debug\caPilhaEstacionamento.exe.config
+C:\Users\Edgard\source\repos\caPilhaEstacionamento\caPilhaEstacionamento\bin\Debug\caPilhaEstacionamento.exe
+C:\Users\Edgard\source\repos\caPilhaEstacionamento\caPilhaEstacionamento\bin\Debug\caPilhaEstacionamento.pdb
+C:\Users\Edgard\source\repos\caPilhaEstacionamento\caPilhaEstacionamento\obj\Debug\caPilhaEstacionamento.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caPilhaEstacionamento\caPilhaEstacionamento\obj\Debug\caPilhaEstacionamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caPilhaEstacionamento\caPilhaEstacionamento\obj\Debug\caPilhaEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caPilhaEstacionamento\caPilhaEstacionamento\obj\Debug\caPilhaEstacionamento.exe
+C:\Users\Edgard\source\repos\caPilhaEstacionamento\caPilhaEstacionamento\obj\Debug\caPilhaEstacionamento.pdb
