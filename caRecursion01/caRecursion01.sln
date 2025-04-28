@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "caRecursion01", "caRecursion01\caRecursion01.csproj", "{B177A87E-ACFF-4C5F-A2A3-E24C967A166A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B177A87E-ACFF-4C5F-A2A3-E24C967A166A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B177A87E-ACFF-4C5F-A2A3-E24C967A166A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B177A87E-ACFF-4C5F-A2A3-E24C967A166A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B177A87E-ACFF-4C5F-A2A3-E24C967A166A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61630FBC-CB40-44F4-B7F3-12B29855B53F}
+	EndGlobalSection
+EndGlobal

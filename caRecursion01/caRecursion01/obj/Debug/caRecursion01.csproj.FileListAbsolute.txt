@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caRecursion01\caRecursion01\bin\Debug\caRecursion01.exe.config
+C:\Users\Edgard\source\repos\caRecursion01\caRecursion01\bin\Debug\caRecursion01.exe
+C:\Users\Edgard\source\repos\caRecursion01\caRecursion01\bin\Debug\caRecursion01.pdb
+C:\Users\Edgard\source\repos\caRecursion01\caRecursion01\obj\Debug\caRecursion01.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caRecursion01\caRecursion01\obj\Debug\caRecursion01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caRecursion01\caRecursion01\obj\Debug\caRecursion01.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caRecursion01\caRecursion01\obj\Debug\caRecursion01.exe
+C:\Users\Edgard\source\repos\caRecursion01\caRecursion01\obj\Debug\caRecursion01.pdb

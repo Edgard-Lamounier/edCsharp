@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caPilhaX\caPilhaX\bin\Debug\caPilhaX.exe.config
+C:\Users\Edgard\source\repos\caPilhaX\caPilhaX\bin\Debug\caPilhaX.exe
+C:\Users\Edgard\source\repos\caPilhaX\caPilhaX\bin\Debug\caPilhaX.pdb
+C:\Users\Edgard\source\repos\caPilhaX\caPilhaX\obj\Debug\caPilhaX.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caPilhaX\caPilhaX\obj\Debug\caPilhaX.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caPilhaX\caPilhaX\obj\Debug\caPilhaX.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caPilhaX\caPilhaX\obj\Debug\caPilhaX.exe
+C:\Users\Edgard\source\repos\caPilhaX\caPilhaX\obj\Debug\caPilhaX.pdb
