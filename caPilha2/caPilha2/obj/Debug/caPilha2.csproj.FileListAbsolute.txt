@@ -1,0 +1,8 @@
+C:\Users\Edgard\source\repos\caPilha2\caPilha2\bin\Debug\caPilha2.exe.config
+C:\Users\Edgard\source\repos\caPilha2\caPilha2\bin\Debug\caPilha2.exe
+C:\Users\Edgard\source\repos\caPilha2\caPilha2\bin\Debug\caPilha2.pdb
+C:\Users\Edgard\source\repos\caPilha2\caPilha2\obj\Debug\caPilha2.csproj.AssemblyReference.cache
+C:\Users\Edgard\source\repos\caPilha2\caPilha2\obj\Debug\caPilha2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edgard\source\repos\caPilha2\caPilha2\obj\Debug\caPilha2.csproj.CoreCompileInputs.cache
+C:\Users\Edgard\source\repos\caPilha2\caPilha2\obj\Debug\caPilha2.exe
+C:\Users\Edgard\source\repos\caPilha2\caPilha2\obj\Debug\caPilha2.pdb
