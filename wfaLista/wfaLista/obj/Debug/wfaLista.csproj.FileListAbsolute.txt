@@ -1,0 +1,11 @@
+C:\Users\lamou\source\repos\wfaLista\wfaLista\bin\Debug\wfaLista.exe.config
+C:\Users\lamou\source\repos\wfaLista\wfaLista\bin\Debug\wfaLista.exe
+C:\Users\lamou\source\repos\wfaLista\wfaLista\bin\Debug\wfaLista.pdb
+C:\Users\lamou\source\repos\wfaLista\wfaLista\obj\Debug\wfaLista.csproj.AssemblyReference.cache
+C:\Users\lamou\source\repos\wfaLista\wfaLista\obj\Debug\wfaLista.csproj.SuggestedBindingRedirects.cache
+C:\Users\lamou\source\repos\wfaLista\wfaLista\obj\Debug\wfaLista.Form1.resources
+C:\Users\lamou\source\repos\wfaLista\wfaLista\obj\Debug\wfaLista.Properties.Resources.resources
+C:\Users\lamou\source\repos\wfaLista\wfaLista\obj\Debug\wfaLista.csproj.GenerateResource.cache
+C:\Users\lamou\source\repos\wfaLista\wfaLista\obj\Debug\wfaLista.csproj.CoreCompileInputs.cache
+C:\Users\lamou\source\repos\wfaLista\wfaLista\obj\Debug\wfaLista.exe
+C:\Users\lamou\source\repos\wfaLista\wfaLista\obj\Debug\wfaLista.pdb
